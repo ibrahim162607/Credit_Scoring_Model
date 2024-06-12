@@ -6,7 +6,6 @@ Using finance data form Kaggle set to Develop a credit scoring model to predict 
 - Preprocess the data
 - Build and train the classification model
 - Evaluate the model's performance
-- Save the model for future use
 
 ## Step 1: Load and Explore the Dataset:
 First, load the dataset and take a look at the first few rows to understand its structure.
