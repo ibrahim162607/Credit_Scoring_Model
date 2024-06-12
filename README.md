@@ -17,5 +17,5 @@ First, load the dataset and take a look at the first few rows to understand its 
 - Encode categorical variables: Convert categorical variables to numerical using techniques like one-hot encoding.
 - Feature scaling: Scale numerical features to ensure they are on a similar scale.
 
-## Build and Train the Classification Model:
+## Step 3: Build and Train the Classification Model:
 We will use a Random Forest classifier to build the credit scoring model. Let's train the model using the training data and evaluate its performance using the test data.
